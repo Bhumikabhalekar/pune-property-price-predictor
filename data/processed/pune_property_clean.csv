@@ -4629,7 +4629,6 @@ age,area,balconies,bathroom,facing,floor,locality,neworold,opensides,ownership,p
 ,2650.0,,4.0,unknown,,koregaon park,resale,,freehold,40000000,furnished,,4.0,apartment,0.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
 ,1220.0,,2.0,unknown,,kalyani nagar,resale,,freehold,14500000,furnished,,2.0,apartment,0.0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
 ,1100.0,,2.0,unknown,,kharadi,new,,freehold,6500000,unknown,,2.0,apartment,0.0,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
-,4300.0,,4.0,unknown,,wagholi,new,,freehold,15000000,unknown,,0.0,villa,0.0,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
 ,900.0,,2.0,unknown,,kharadi,resale,,freehold,5500000,furnished,,2.0,apartment,0.0,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
 ,1220.0,,2.0,unknown,,wadgaon sheri,resale,,freehold,8800000,furnished,,2.0,apartment,0.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,16
 ,1550.0,,3.0,unknown,,kalyani nagar,resale,,freehold,11500000,unfurnished,,3.0,apartment,0.0,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
@@ -16692,7 +16691,6 @@ age,area,balconies,bathroom,facing,floor,locality,neworold,opensides,ownership,p
 7.0,2487.0,3.0,3.0,east,5.0,wagholi,resale,,unknown,12200000,"ready to move,unfurnished",12.0,3.0,apartment,0.0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6
 7.0,3006.0,2.0,3.0,west,5.0,kalyani nagar,resale,,unknown,48000000,"ready to move,semi-furnished",12.0,3.0,apartment,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,7
 2.0,1619.0,1.0,3.0,east,7.0,kharadi,resale,,unknown,9700000,"ready to move,unfurnished",13.0,3.0,apartment,2.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
-2.0,6318.0,3.0,9.0,east,8.0,kharadi,resale,,unknown,55300000,"ready to move,unfurnished",35.0,5.0,apartment,0.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 12.0,3101.0,2.0,3.0,east,4.0,kalyani nagar,resale,,unknown,49600000,"ready to move,unfurnished",12.0,3.0,apartment,0.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 2.0,3650.0,2.0,4.0,west,2.0,sangamvadi,resale,,unknown,65000000,"ready to move,semi-furnished",8.0,4.0,apartment,1.0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,15
 7.0,2470.0,3.0,3.0,east,,wagholi,resale,,unknown,13500000,"ready to move,unfurnished",2.0,3.0,apartment,2.0,1,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
@@ -28046,7 +28044,6 @@ age,area,balconies,bathroom,facing,floor,locality,neworold,opensides,ownership,p
 3.0,1117.0,1.0,2.0,unknown,,baner,resale,,freehold,4080000,"ready to move,unfurnished",8.0,2.0,apartment,0.0,1,0,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,18
 ,2400.0,3.0,3.0,unknown,,bhosle nagar,resale,,unknown,40000000,"ready to move,unfurnished",,4.0,apartment,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ,1045.0,2.0,3.0,unknown,,senapati bapat road,resale,,unknown,15000000,"ready to move,unfurnished",,3.0,apartment,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2.0,5350.0,2.0,8.0,east,6.0,boat club road,new,,freehold,95400000,ready to move,9.0,4.0,apartment,0.0,1,1,1,1,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
 ,1388.0,2.0,3.0,east,7.0,hinjewadi,new,,freehold,7100000,under construction,15.0,3.0,apartment,0.0,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
 ,3500.0,2.0,4.0,east,10.0,pimple nilakh,new,,freehold,24500000,under construction,15.0,4.0,apartment,0.0,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,15
 2.0,1219.0,2.0,2.0,east,7.0,wakad,new,,freehold,8900000,ready to move,12.0,2.0,apartment,0.0,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,16
