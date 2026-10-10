@@ -876,7 +876,6 @@ age,area,balconies,bathroom,facing,floor,locality,neworold,opensides,ownership,p
 ,1000.0,1.0,2.0,east,5.0,hinjewadi,new,4.0,freehold,6000000,under construction,12.0,2.0,apartment,1.0,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
 ,1100.0,1.0,2.0,east,7.0,hinjewadi,new,4.0,freehold,6500000,under construction,12.0,2.0,apartment,1.0,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
 2.0,1004.0,,2.0,west,,undri,new,,unknown,3714800,ready to move,,2.0,apartment,0.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,17
-9.0,150.0,1.0,1.0,northeast,1.0,magarpatta road,resale,1.0,unknown,2600000,"ready to move,unfurnished",5.0,1.0,apartment,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 5.0,1150.0,1.0,2.0,north,10.0,wakad,resale,1.0,co-operative society,6800000,"ready to move,unfurnished",12.0,2.0,apartment,0.0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
 5.0,1650.0,2.0,3.0,west,1.0,wakad,resale,2.0,co-operative society,8700000,"ready to move,unfurnished",12.0,3.0,apartment,0.0,1,1,0,1,1,1,1,1,1,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,14
 1.0,1300.0,1.0,2.0,east,1.0,salisbury park,new,3.0,co-operative society,14000000,ready to move,10.0,3.0,apartment,2.0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12
@@ -16125,7 +16124,6 @@ age,area,balconies,bathroom,facing,floor,locality,neworold,opensides,ownership,p
 12.0,3800.0,,3.0,east,,koregaon park,resale,,freehold,45000000,"ready to move,semi-furnished",,3.0,villa,0.0,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
 17.0,2900.0,,3.0,west,,koregaon park,resale,,freehold,30500000,"ready to move,unfurnished",,3.0,villa,0.0,1,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
 3.0,1560.0,,3.0,east,,kalyani nagar,resale,,co-operative society,12100000,"ready to move,unfurnished",,3.0,villa,0.0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
-22.0,19000.0,,4.0,north,,koregaon park,resale,,co-operative society,190000000,"ready to move,semi-furnished",,4.0,villa,0.0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
 7.0,4355.0,,4.0,east,,kharadi,resale,,freehold,32700000,"ready to move,semi-furnished",,4.0,villa,0.0,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
 17.0,6000.0,,5.0,northwest,,koregaon park,resale,,freehold,80000000,"ready to move,unfurnished",,5.0,villa,0.0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
 12.0,2000.0,,3.0,east,,koregaon park,resale,,freehold,35000000,"ready to move,semi-furnished",,3.0,villa,0.0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
@@ -20304,7 +20302,6 @@ age,area,balconies,bathroom,facing,floor,locality,neworold,opensides,ownership,p
 ,924.0,1.0,2.0,unknown,1.0,wakad,resale,1.0,co-operative society,7500000,"ready to move,unfurnished",5.0,3.0,independent floor,0.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 ,520.0,,1.0,unknown,,sinhgad road,resale,,unknown,2800000,"ready to move,unfurnished",,1.0,apartment,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3.0,850.0,,2.0,unknown,2.0,wagholi,resale,,co-operative society,4500000,"ready to move,unfurnished",,2.0,apartment,0.0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,16
-2.0,220.0,,1.0,unknown,4.0,bebadohal,new,,freehold,1100000,ready to move,10.0,1.0,apartment,0.0,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,17
 2.0,650.0,,2.0,unknown,2.0,talegaon dabhade,new,1.0,freehold,4500000,ready to move,3.0,2.0,apartment,2.0,1,1,1,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
 11.0,1450.0,2.0,3.0,east,4.0,pimple saudagar,resale,3.0,co-operative society,7500000,"ready to move,semi-furnished",5.0,3.0,apartment,0.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,6
 14.0,625.0,,1.0,east,2.0,tingre nagar,resale,2.0,co-operative society,3600000,"ready to move,semi-furnished",4.0,1.0,apartment,0.0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,17
@@ -20405,7 +20402,6 @@ age,area,balconies,bathroom,facing,floor,locality,neworold,opensides,ownership,p
 5.0,2250.0,,3.0,north,7.0,kharadi,resale,2.0,freehold,11900000,"ready to move,semi-furnished",9.0,3.0,apartment,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,24
 2.0,1335.0,1.0,2.0,east,10.0,kharadi,resale,2.0,freehold,9000000,"ready to move,semi-furnished",14.0,2.0,apartment,0.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19
 1.0,1315.0,,2.0,east,7.0,kharadi,resale,2.0,freehold,10500000,"ready to move,semi-furnished",12.0,2.0,apartment,0.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,1,0,25
-,198.0,,,unknown,,narhe,new,,unknown,1250000,ready to move,,1.0,apartment,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ,350.0,,1.0,unknown,1.0,jambhulwadi,resale,,unknown,3500000,"ready to move,unfurnished",4.0,1.0,apartment,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ,953.0,2.0,2.0,unknown,,dattavadi,resale,,unknown,12000000,"ready to move,unfurnished",,2.0,apartment,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3.0,527.0,1.0,1.0,unknown,,chikhali road,new,,unknown,2950000,ready to move,,1.0,apartment,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -20788,7 +20784,6 @@ age,area,balconies,bathroom,facing,floor,locality,neworold,opensides,ownership,p
 1.0,1350.0,,,unknown,,nibm annex mohammadwadi,new,,unknown,7700000,ready to move,,2.0,apartment,0.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,15
 11.0,720.0,1.0,1.0,unknown,,aundh,resale,,unknown,4500000,"ready to move,furnished",,1.0,apartment,2.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,1,0,1,0,0,8
 15.0,941.0,,2.0,east,3.0,dattavadi,resale,1.0,unknown,7500000,"ready to move,semi-furnished",5.0,2.0,apartment,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2
-3.0,200.0,,,unknown,,lonikand,new,,unknown,1200000,ready to move,,1.0,independent floor,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ,901.0,,,unknown,,wagholi,new,,unknown,3500000,unknown,,2.0,apartment,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ,920.0,,,unknown,,wagholi,new,,unknown,4000000,unknown,,2.0,apartment,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ,905.0,,,unknown,,wagholi,new,,unknown,4100000,unknown,,2.0,apartment,0.0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
