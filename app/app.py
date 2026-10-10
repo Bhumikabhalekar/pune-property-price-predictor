@@ -14,7 +14,8 @@ st.set_page_config(page_title="Pune Property Price Predictor", page_icon="🏠",
 def load_model():
     model = joblib.load(BASE / "models" / "rf_price_model.joblib")
     cols = joblib.load(BASE / "models" / "feature_columns.joblib")
-    return model, cols
+    loc_info = joblib.load(BASE / "models" / "locality_psf.joblib")
+    return model, cols, loc_info
 
 
 @st.cache_data
@@ -22,7 +23,7 @@ def load_data():
     return pd.read_csv(BASE / "data" / "processed" / "pune_property_clean.csv")
 
 
-model, feature_cols = load_model()
+model, feature_cols, loc_info = load_model()
 data = load_data()
 locality_stats = pd.read_csv(BASE / "data" / "processed" / "locality_stats.csv")
 
@@ -82,6 +83,7 @@ if st.button("Predict price", type="primary"):
         "floor": floor, "totalfloor": totalfloor, "age": age,
         "neworold": neworold, "facing": facing, "amenity_count": len(chosen),
     })
+    row["locality_psf"] = loc_info["map"].get(locality, loc_info["default"])
     row = pd.DataFrame([row])[feature_cols]
 
     estimate, low, high = predict_with_range(row)
