@@ -5,7 +5,10 @@ A machine learning web app that estimates the price of a property in Pune and he
 **🔗 Live demo:** https://pune-property-price-predictor-jgnfpxmzelipb23arfwrpb.streamlit.app/
 *(If the app is asleep, click "Yes, get this app back up!" and wait about a minute.)*
 
-![App screenshot](reports/figures/app_screenshot.png)
+## Screenshots
+![Prediction](reports/figures/app_prediction.png)
+![Comparison and similar listings](reports/figures/app_comparison.png)
+![Market insights](reports/figures/market_insights.png)
 
 ## Features
 - **Price estimate with a likely range** (for example ₹49 L to ₹76 L), not just one number
@@ -74,7 +77,3 @@ streamlit run app/app.py
 - Localities with very few listings (the app shows a warning) are still less accurate.
 - Estimates are for information only and are not financial advice.
 
-## Screenshots
-![Prediction](reports/figures/app_prediction.png)
-![Comparison and similar listings](reports/figures/app_comparison.png)
-![Market insights](reports/figures/market_insights.png)
